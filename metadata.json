@@ -1,0 +1,7 @@
+{
+  "name": "Broly Store",
+  "description": "Broly Store — le meilleur endroit pour acheter vos diamants Free Fire avec Broly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
